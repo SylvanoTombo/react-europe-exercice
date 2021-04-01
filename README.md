@@ -1,3 +1,3 @@
-# React Europe Exercice
+# React Europe Exercise
 
 
